@@ -55,12 +55,4 @@ Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**
 - Model Accuracy Comparison Bar Chart
 - Confusion Matrices for all 3 models
 
----
-
-##  How to Run
-1. Open `Project3_Sentiment_Analysis.ipynb` in Google Colab
-2. Upload `Twitter_Data.csv` when prompted
-3. Run all cells (`Runtime > Run all`)
-4. ⚠️ Note: Preprocessing ~163K tweets takes ~1-2 minutes
-
 *#oasisinfobyte #oasisinfobytefamily #internship #python*
