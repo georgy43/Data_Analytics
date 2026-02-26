@@ -1,14 +1,11 @@
-# 💬 Sentiment Analysis on Twitter Data
-**Oasis Infobyte — Data Analytics Internship | Level 1 | Project 3**
+# Sentiment Analysis on Twitter Data
 
----
-
-## 📌 Objective
+## Objective
 Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**, or **Negative** using NLP and machine learning techniques.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source:** Twitter Data (CSV)
 - **Records:** ~162,980 tweets
 - **Columns:** `clean_text`, `category`
@@ -16,7 +13,7 @@ Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 | Tool | Purpose |
 |------|---------|
 | Python 3 | Core language |
@@ -30,7 +27,7 @@ Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**
 
 ---
 
-## 🔍 Key Steps
+## Key Steps
 1. **Data Loading & Cleaning** — Handled nulls, mapped labels to readable names
 2. **EDA** — Sentiment distribution, tweet length analysis
 3. **Word Clouds** — Visual representation of top words per sentiment
@@ -42,7 +39,7 @@ Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**
 
 ---
 
-## 📊 Models Compared
+## Models Compared
 | Model | Type |
 |-------|------|
 | Logistic Regression | Linear classifier |
@@ -51,7 +48,7 @@ Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 - Sentiment Distribution (Bar + Pie Chart)
 - Tweet Length Distribution by Sentiment
 - Word Clouds for each Sentiment class
@@ -60,17 +57,10 @@ Build a sentiment analysis model to classify tweets as **Positive**, **Neutral**
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Open `Project3_Sentiment_Analysis.ipynb` in Google Colab
 2. Upload `Twitter_Data.csv` when prompted
 3. Run all cells (`Runtime > Run all`)
 4. ⚠️ Note: Preprocessing ~163K tweets takes ~1-2 minutes
-
----
-
-## 📜 License
-This project is part of the Oasis Infobyte Internship Program.
-
----
 
 *#oasisinfobyte #oasisinfobytefamily #internship #python*
