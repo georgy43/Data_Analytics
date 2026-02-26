@@ -1,21 +1,18 @@
-# 🧹 Data Cleaning — Airbnb NYC 2019
-**Oasis Infobyte — Data Analytics Internship | Level 1 | Project 4**
+# Data Cleaning — Airbnb NYC 2019
 
----
-
-## 📌 Objective
+## Objective
 Clean the Airbnb NYC 2019 dataset by handling missing values, removing duplicates, fixing data types, detecting outliers, and standardizing text — making it ready for reliable analysis.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source:** Airbnb Open Data — New York City 2019
 - **Records:** 48,895 listings
 - **Columns:** id, name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 | Tool | Purpose |
 |------|---------|
 | Python 3 | Core language |
@@ -26,7 +23,7 @@ Clean the Airbnb NYC 2019 dataset by handling missing values, removing duplicate
 
 ---
 
-## 🔍 Cleaning Steps Performed
+## Cleaning Steps Performed
 
 | Issue | Column(s) | Fix Applied |
 |-------|-----------|-------------|
@@ -42,27 +39,12 @@ Clean the Airbnb NYC 2019 dataset by handling missing values, removing duplicate
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 - Missing Values Heatmap (before cleaning)
 - Price Distribution — Before vs After Cleaning
 - Number of Listings by Neighbourhood Group
 - Average Price by Neighbourhood Group
 - Room Type Distribution (Pie Chart)
 - Price by Room Type (Boxplot)
-
----
-
-## 🚀 How to Run
-1. Open `Project4_Data_Cleaning.ipynb` in Google Colab
-2. Upload `AB_NYC_2019.csv` when prompted
-3. Run all cells (`Runtime > Run all`)
-4. The cleaned CSV will be automatically downloaded at the end
-
----
-
-## 📜 License
-This project is part of the Oasis Infobyte Internship Program.
-
----
 
 *#oasisinfobyte #oasisinfobytefamily #internship #python*
